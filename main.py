@@ -71,7 +71,6 @@ def create_event(name, location, description, start, end, jb):
             cal_id = config("CAL_ID_REF")
         event = service.events().insert(calendarId=cal_id, body=event).execute()
         print('Event created: ', event.get('htmlLink'))
-
     except HttpError as error:
         print(f"An error occurred: {error}")
 
