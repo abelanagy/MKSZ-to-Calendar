@@ -10,7 +10,8 @@ If you want to use this application you should install all of the packages in re
 
 Secondly, you should create your own credentials.json file, using this [guide](https://developers.google.com/calendar/api/quickstart/python).
 
-Thirdly, you should use you own calendar ids, which you can get from a celndar's settings, mine looks like this: lotsofnumbersandletters@group.calendar.google.com
+Thirdly, you should use you own calendar ids, which you can get from your calendar's settings, mine looks like this: lotsofnumbersandletters@group.calendar.google.com
+
 *You can also use "primary", instead of an id, which will point at your primary calendar.*
 
 If you need help using this script feel free to [contact me](mailto:abel.nagy26@gmail.com).
