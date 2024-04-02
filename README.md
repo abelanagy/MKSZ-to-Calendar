@@ -14,6 +14,6 @@ Thirdly, you should use you own calendar ids, which you can get from your calend
 
 *You can also use "primary", instead of an id, which will point at your primary calendar.*
 
-Finally, I recommend compiling an exe from this script, hence you could run it more easily and looks much nicer :). I used 
+Finally, I recommend compiling an exe from this script, hence you could run it more easily and looks much nicer :). I used [this tool](https://pypi.org/project/auto-py-to-exe/) for converting.
 
 If you need help using this script feel free to [contact me](mailto:abel.nagy26@gmail.com).
